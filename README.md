@@ -24,4 +24,10 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 15. Create the image background for the jumbotron section.
 16. Test and run all the code that we have now created. Make sure that all features are working.
 17. Comment in all the new code that we have created within the html and the css file.
+18. Create the new section for the cards, to hold all the images required.
+19. Use and edit the source code to fit for the three images, evenly spaced on the landing page.
+20. Attach each image to each card before adding the base/ filler content for the images.
+21. Apply the filler content for each image within each card.
+22. Test and run all code that we have now created before moving on. 
+23. Apply comments to all the new code that we have create. Keep the html file clean and organized.
 
