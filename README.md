@@ -37,4 +37,13 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 28. Create the anchor tag to create the download button for each image. 
 29. Create further styles to the text color of the download button and the heart icon.
 30. Create a border to surrond these two buttons within each card.
+31. Review project content. Having issues when we are breaking the page down by the screen sizes.
+32. Watch code along video content to better understand the process of using the card features.
+33. Understand when and where to use the container class. Following the row class and column classes.
+34. Attach the first image to the first card. To see how to use these classes. 
+35. After attaching the first image. Format the divs to create a row for the ability to create the columns as well. Give proper spacing for the cards.
+36. Create the corrected spacing that we are looking for with our first card. Complete all the styling for the first card.
+37. Create the format and the styles for the second and the third cards as well. Complete the format for the entire card section.
+38. Test and run the code that we have created for the card section. Make sure that all elements are responsive. 
+39. 
 
