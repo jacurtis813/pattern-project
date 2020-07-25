@@ -11,4 +11,7 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 2. Update the content within the README file to follow.
 3. Create the html file for pattern-project.
 4. Set up the layout/ format of the html file for the pattern-project.
-5. 
+5. Create folder of 'assets' to hold other sub folders for the prjoect-file.
+6. Create the css folder, create the css file and set up.
+7. Create the images folder. This will be for future images of the project.
+
