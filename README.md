@@ -45,5 +45,6 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 36. Create the corrected spacing that we are looking for with our first card. Complete all the styling for the first card.
 37. Create the format and the styles for the second and the third cards as well. Complete the format for the entire card section.
 38. Test and run the code that we have created for the card section. Make sure that all elements are responsive. 
-39. 
+39. Set up the comments for this recreated/ edited section of content. Save all changes and commit new work.
+40. Project is completed for this section of content and of the video lecture. Complete.
 
