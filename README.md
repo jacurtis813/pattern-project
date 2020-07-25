@@ -16,4 +16,5 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 7. Create the images folder. This will be for future images of the project.
 8. Copy all the images that we will need for this project into the images folder.
 9. Create the Navbar using source code. Then edit to our use or liking for the page.
-10. 
+10. Edit the style, background color of the navbar. To layover the light hero image.
+11. Create the 'jumbotron' or 'hero' of the web page. 
