@@ -1,1 +1,3 @@
-/* Stylesheet for the pattern-project */
+.jumbotron {
+    background: url("../images/header.jpeg");
+}

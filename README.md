@@ -20,3 +20,8 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 11. Create the 'jumbotron' or 'hero' of the web page. 
 12. Use semantic html to structure the html file properly. Using the section element, placing and id of header to give better understanding for the future of coding.
 13. Create the next section for what will be the id of image-gallery.
+14. Condense the content for the header section of the html file. 
+15. Create the image background for the jumbotron section.
+16. Test and run all the code that we have now created. Make sure that all features are working.
+17. Comment in all the new code that we have created within the html and the css file.
+
