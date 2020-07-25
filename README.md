@@ -14,4 +14,6 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 5. Create folder of 'assets' to hold other sub folders for the prjoect-file.
 6. Create the css folder, create the css file and set up.
 7. Create the images folder. This will be for future images of the project.
-
+8. Copy all the images that we will need for this project into the images folder.
+9. Create the Navbar using source code. Then edit to our use or liking for the page.
+10. 
