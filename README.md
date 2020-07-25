@@ -30,4 +30,9 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 21. Apply the filler content for each image within each card.
 22. Test and run all code that we have now created before moving on. 
 23. Apply comments to all the new code that we have create. Keep the html file clean and organized.
+24. Make an adjustment to the layoout of the cards. Use the card deck layout instead, better for resizing on screens.
+25. Create the alt attributes and apply the values to all the images. 
+26. Create the heart icons for each image within each card.
+27. Test and run all the code that we have created for this section. Save all changes. 
+
 
