@@ -34,5 +34,7 @@ Creating this project after completing all video-lectures on bootstrap four. We 
 25. Create the alt attributes and apply the values to all the images. 
 26. Create the heart icons for each image within each card.
 27. Test and run all the code that we have created for this section. Save all changes. 
-
+28. Create the anchor tag to create the download button for each image. 
+29. Create further styles to the text color of the download button and the heart icon.
+30. Create a border to surrond these two buttons within each card.
 
